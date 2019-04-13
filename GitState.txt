@@ -1,0 +1,7 @@
+Git's 3 different state a code can be
+
+Committed State - committed to local repo/db/machine
+
+Staged State - code is marked to be avaialble for next committed.
+
+Modified State - code is modified in local directory and not marked for commit.

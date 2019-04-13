@@ -1,0 +1,9 @@
+Git Area where code reside
+
+Working Area - local working Directory where code is modified/added
+
+Staged Area - Staging area where code is ready to get committed in local Repo.
+
+.git repo Local Repository - where the modifed codes get commited and available to push it on Remote Repository
+
+Remote Repository
